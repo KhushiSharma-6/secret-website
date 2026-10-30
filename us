@@ -1,0 +1,1985 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#fff0f5">
+
+  <title>Our Little Love World ♡</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,500;0,600;1,500&family=Dancing+Script:wght@500;600;700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <!-- PASSWORD SCREEN -->
+  <div id="lockScreen">
+    <div class="lock-card">
+
+      <div class="lock-bow">🎀</div>
+
+      <p class="eyebrow">A PRIVATE LITTLE WORLD</p>
+
+      <h1>Hey, Samrath!</h1>
+
+      <p>
+        Someone made a tiny universe just for you.
+        <br>
+        Enter the secret password to unlock it. ♡
+      </p>
+
+      <input
+        type="password"
+        id="passwordInput"
+        placeholder="Our secret password..."
+      >
+
+      <button class="primary-btn" id="unlockBtn">
+        Unlock my world ♡
+      </button>
+
+      <p id="error"></p>
+
+      <span class="lock-footer">୨୧ Made with love ୨୧</span>
+
+    </div>
+  </div>
+
+
+  <!-- MAIN WEBSITE -->
+  <div id="website">
+
+    <!-- NAVIGATION -->
+    <nav>
+
+      <div class="logo">Our Love World ♡</div>
+
+      <button class="menu-toggle" id="menuToggle" aria-label="Toggle menu">
+        ☰
+      </button>
+
+      <div class="nav-links" id="navLinks">
+        <a href="#home">Home</a>
+        <a href="#letter">Letter</a>
+        <a href="#story">Our Story</a>
+        <a href="#reasons">100 Reasons</a>
+        <a href="#gallery">Gallery</a>
+        <a href="#quiz">Quiz</a>
+        <a href="#secret">Secret</a>
+      </div>
+
+    </nav>
+
+
+    <!-- HOME -->
+    <section class="hero" id="home">
+
+      <span class="floating-decor decor-one">♡</span>
+      <span class="floating-decor decor-two">🎀</span>
+      <span class="floating-decor decor-three">✧</span>
+      <span class="floating-decor decor-four">♥</span>
+
+      <div class="hero-content">
+
+        <p class="eyebrow">A LITTLE SOMETHING FOR MY FAVOURITE PERSON</p>
+
+        <h1>Hey, My Bebee! ♡</h1>
+
+        <h2>Welcome to our little universe.</h2>
+
+        <p class="hero-description">
+          A tiny corner of the internet where everything is pink n white,
+          everything is cute, and everything reminds me of you.
+          This little world belongs to you. Just you. ♡
+        </p>
+
+        <a href="#letter" class="primary-btn">
+          Open your surprise 💌
+        </a>
+
+        <p class="handwritten">
+          You + Me = My favourite little story ୨୧
+        </p>
+
+      </div>
+
+    </section>
+
+
+    <!-- LOVE LETTER -->
+    <section class="section letter-section" id="letter">
+
+      <div class="section-heading">
+        <p class="eyebrow">SOMETHING FROM MY HEART</p>
+        <h2>A Letter For You 💌</h2>
+        <p>Because some feelings deserve their own little page.</p>
+      </div>
+
+      <div class="letter-card">
+
+        <div class="letter-decoration">💗 🎀 💗</div>
+
+        <h3>My dearest Samrat,</h3>
+
+        <p>
+          I don't really know where to begin, because how do I put
+          someone like you into a few paragraphs?
+        </p>
+
+        <p>
+          It's funny how two people can cross paths through random
+          Instagram group chats and somehow become so important
+          to each other. I never knew that a chaotic conversation
+          could turn into something I would want to keep close.
+        </p>
+
+        <p>
+          I love the way you express yourself, the way you play
+          with words, your songs, your shayari and that voice of yours.
+          Sometimes I wonder how one person can be so full of words
+          and still leave me speechless.
+        </p>
+
+        <p>
+          I may tease you, annoy you, act dramatic and demand
+          attention like a tiny spoiled child, but somewhere
+          between all that, you've become someone very special
+          to me.
+        </p>
+
+        <p>
+          I don't want a perfect story. I want something real.
+          Something where we can laugh at silly things, talk about
+          absolutely nothing, understand each other and keep choosing
+          each other even on ordinary days.
+        </p>
+
+        <p>
+          So here's a little reminder: you are appreciated,
+          you are cared for, and you deserve all the softness
+          this world can offer.
+        </p>
+
+        <p>
+          And if you ever forget how special you are,
+          come back to this little website. I'll leave a little
+          piece of my affection here for you. ♡
+        </p>
+
+        <div class="signature">
+          Yours, your little babygirl ♡
+        </div>
+
+      </div>
+
+    </section>
+
+
+    <!-- OUR STORY -->
+    <section class="section story-section" id="story">
+
+      <div class="section-heading">
+        <p class="eyebrow">IT STARTED SOMEWHERE</p>
+        <h2>Our Little Story ୨୧</h2>
+        <p>Not a perfect fairytale. Just our own little chaotic/funny/lovey beginning.</p>
+      </div>
+
+      <div class="timeline">
+
+        <article class="timeline-item">
+          <span class="memory-tag">The beginning</span>
+          <h3>Two strangers, one group chat</h3>
+          <p>
+            We first crossed paths through an Instagram group chat.
+            Just another random interaction that neither of us knew
+            would become part of our story.
+          </p>
+        </article>
+
+        <article class="timeline-item">
+          <span class="memory-tag">Another chapter</span>
+          <h3>Crossing paths again</h3>
+          <p>
+            Somehow, our paths crossed again in another group.
+            And this time, the conversations turned out differently.
+          </p>
+        </article>
+
+        <article class="timeline-item">
+          <span class="memory-tag">Getting closer</span>
+          <h3>Words, songs and shayari</h3>
+          <p>
+            Slowly, we started getting to know each other.
+            Your way with words, songs and shayari became
+            little things I associate with you.
+          </p>
+        </article>
+ <article class="timeline-item">
+    <span class="memory-tag">Trust issues unlocked 🥲</span>
+    <h3>Not everything was rosy</h3>
+    <p>
+      We had our share of fights, misunderstandings and
+      trust issues. Sometimes things got complicated,
+      sometimes words hurt, and sometimes understanding
+      each other felt harder than it should have.
+      But our story wasn't ready to end there.
+    </p>
+  </article>
+
+  <article class="timeline-item">
+    <span class="memory-tag">The legendary triangle 😭</span>
+    <h3>You, me and Tanu!</h3>
+    <p>
+      And then came the chapter nobody could forget:
+      the whole you-me-and-Tanu triangle!
+      A little too much confusion, a lot of emotions,
+      and definitely more drama than our story needed.
+    </p>
+  </article>
+
+  <article class="timeline-item">
+    <span class="memory-tag">GC courtroom ⚖️</span>
+    <h3>When the entire GC got involved</h3>
+    <p>
+      As if our own kalesh wasn't enough, the entire
+      group chat got involved too! Opinions, discussions,
+      arguments, explanations and endless drama.
+      At some point, it felt like our personal story
+      had become the group's biggest episode.
+    </p>
+  </article>
+
+  <article class="timeline-item">
+    <span class="memory-tag">The emotional chapter 🥺</span>
+    <h3>Rona-dhona and everything in between</h3>
+    <p>
+      There were tears, emotional conversations,
+      overthinking, misunderstandings and moments
+      when things felt uncertain.
+      We weren't perfect, and neither was our journey.
+      But every chapter became a part of our story.
+    </p>
+  </article>
+
+  <article class="timeline-item">
+    <span class="memory-tag">Finally, us! 💗</span>
+    <h3>After all that, you became mine</h3>
+    <p>
+      After all the kalesh, confusion, trust issues,
+      GC drama and emotional rollercoaster rides...
+      here we are.
+      Finally, you and me. Together.
+      And honestly, this is the chapter I want to keep.
+    </p>
+  </article>
+
+  <article class="timeline-item">
+    <span class="memory-tag">Our forever ♾️</span>
+    <h3>Not just a chapter, a lifetime!</h3>
+    <p>
+      I don't want this to be just another temporary
+      chapter in our lives. I want more conversations,
+      more laughter, more silly fights, more making up,
+      more memories and more of US.
+      <br><br>
+      Through every high and low, I hope we keep
+      choosing each other.
+      <br><br>
+      Finally, Sami, you're mine and I'm yours.
+      Now let's make this ours, not just for today,
+      but for always. ♡
+    </p>
+  </article>
+
+</div>
+        <article class="timeline-item">
+          <span class="memory-tag">Right now</span>
+          <h3>A little world for Sami</h3>
+          <p>
+            And now there's this tiny website, made with love,
+            just to remind you that you're someone special to me.
+          </p>
+        </article>
+
+        <article class="timeline-item">
+          <span class="memory-tag">To be continued...</span>
+          <h3>More chapters to come ♡</h3>
+          <p>
+            We still have so many pages left to write.
+            Let's make them ours, one little moment at a time.
+          </p>
+        </article>
+
+      </div>
+
+    </section>
+
+
+    <!-- 100 REASONS -->
+    <section class="section reasons-section" id="reasons">
+
+      <div class="section-heading">
+        <p class="eyebrow">A HUNDRED LITTLE THINGS</p>
+        <h2>100 Reasons I Adore You 💗</h2>
+        <p>One reason at a time. Infinite affection.</p>
+      </div>
+
+      <div class="reason-card">
+
+        <p id="reasonCount" class="reason-count">REASON 01 OF 100</p>
+
+        <div id="reasonNumber" class="reason-number">01</div>
+
+        <p id="reasonText" class="reason-text"></p>
+
+        <div class="reason-controls">
+          <button class="secondary-btn" id="previousReason">← Previous</button>
+          <button class="primary-btn" id="nextReason">Next →</button>
+        </div>
+
+        <p class="little-note">P.S. I could write a thousand more. ♡</p>
+
+      </div>
+
+    </section>
+
+
+    <!-- PHOTO GALLERY -->
+    <section class="section gallery-section" id="gallery">
+
+      <div class="section-heading">
+        <p class="eyebrow">LITTLE PIECES OF US</p>
+        <h2>Our Cute Little Gallery 📸</h2>
+        <p>Some spaces are waiting for your favourite pictures.</p>
+      </div>
+
+      <div class="gallery">
+
+        <div class="photo-card">
+          <img src="https://files.catbox.moe/9fhhfk.jpg" alt="Our first picture">
+          <p>My favourite person ♡</p>
+        </div>
+
+        <div class="photo-card">
+          <img src="https://files.catbox.moe/razpbr.jpg" alt="Our second picture">
+          <p>Cutest human 🎀</p>
+        </div>
+
+        <div class="photo-card">
+          <img src="https://files.catbox.moe/zj7ixu.jpg" alt="Our third picture">
+          <p>Little happiness 💗</p>
+        </div>
+
+        <div class="photo-card">
+          <img src="https://files.catbox.moe/zj7ixu.jpg" alt="Our fourth picture">
+          <p>My Sami ♡</p>
+        </div>
+
+      </div>
+
+      <p class="gallery-note">
+        Tap any picture to see it bigger. Replace these sample paths
+        with your own photographs.
+      </p>
+
+    </section>
+
+
+    <!-- PHOTO LIGHTBOX -->
+    <div class="lightbox" id="lightbox">
+      <button id="closeLightbox" aria-label="Close photo">×</button>
+      <img id="lightboxImage" src="" alt="Enlarged gallery picture">
+    </div>
+
+
+    <!-- QUIZ -->
+    <section class="section quiz-section" id="quiz">
+
+      <div class="section-heading">
+        <p class="eyebrow">LET'S SEE HOW WELL YOU KNOW US</p>
+        <h2>How Well Do You Know Me? 🎮</h2>
+        <p>Answer these little questions, Mr. Samrat!</p>
+      </div>
+
+      <div class="quiz-card">
+
+        <div id="quizArea">
+          <p id="questionNumber" class="question-number"></p>
+          <h3 id="questionText" class="quiz-question"></h3>
+          <div id="options" class="quiz-options"></div>
+          <p id="quizFeedback" class="quiz-feedback"></p>
+        </div>
+
+        <div id="quizResult" class="quiz-result hidden"></div>
+
+        <button id="restartQuiz" class="primary-btn hidden">
+          Play again ♡
+        </button>
+
+      </div>
+
+    </section>
+
+
+    <!-- SECRET ROOM -->
+    <section class="section secret-section" id="secret">
+
+      <div class="section-heading">
+        <p class="eyebrow">ONLY FOR YOU</p>
+        <h2>A Little Secret Room 🤫</h2>
+        <p>There's a message hidden here, waiting for you.</p>
+      </div>
+
+      <div class="secret-box">
+
+        <div class="secret-icon">💌</div>
+
+        <h3>One last little thing...</h3>
+
+        <p>
+          Sami, there's a message waiting for you.
+          Are you ready?
+        </p>
+
+        <button id="revealSecret" class="primary-btn">
+          Reveal my secret ♡
+        </button>
+
+        <div id="secretMessage" class="secret-message hidden">
+
+          <h3>Listen, you! 🎀</h3>
+
+          <p>
+            If I could send you one thing through this screen,
+            it would be the biggest hug ever.
+          </p>
+
+          <p>
+            Thank you for being my little world.
+            Don't forget to smile, take care of yourself,
+            drink water and remember that someone is cheering
+            for you. ♡
+          </p>
+
+          <p class="handwritten">
+            Now give me a virtual hug! 🫂
+          </p>
+
+        </div>
+
+      </div>
+
+    </section>
+
+
+    <!-- RANDOM SURPRISE -->
+    <section class="section surprise-section">
+
+      <div class="section-heading">
+        <p class="eyebrow">A TINY SURPRISE</p>
+        <h2>Feeling Lucky, Samrat? 💝</h2>
+        <p>Click the button. Your little surprise is waiting.</p>
+      </div>
+
+      <button id="surpriseBtn" class="primary-btn">
+        Give me a surprise! 🎀
+      </button>
+
+      <p id="surpriseMessage" class="surprise-message">
+        Waiting for you, silly ♡
+      </p>
+
+    </section>
+
+
+    <!-- FOOTER -->
+    <footer>
+
+      <div class="footer-heart">♡</div>
+
+      Made with love, pink hearts and a little bit of craziness.
+
+      <p>This little world belongs to Sami. 🎀</p>
+
+      <p class="footer-script">Forever a little love story ♡</p>
+
+    </footer>
+
+  </div>
+
+
+  <!-- MUSIC PLAYER -->
+  <div id="musicPlayer" class="music-player hidden">
+
+    <button id="musicButton" aria-label="Play music">▶</button>
+
+    <div class="music-info">
+      <span id="musicLabel">A song for you ♡</span>
+      <small>Just for Sami</small>
+    </div>
+
+  </div>
+
+  <audio id="backgroundMusic" loop preload="none">
+    <source src="https://files.catbox.moe/tq5pl0.mp3" type="audio/mpeg">
+    Your browser does not support audio.
+  </audio>
+
+
+  <script src="script.js"></script>
+
+</body>
+</html>
+
+
+:root {
+  --pink: #f7b8cc;
+  --dark-pink: #df789e;
+  --light-pink: #fff0f5;
+  --cream: #fffafd;
+  --text: #704656;
+  --muted: #a47d8c;
+  --white: #ffffff;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--cream);
+  color: var(--text);
+  font-family: 'DM Sans', sans-serif;
+  overflow-x: hidden;
+}
+
+button, a {
+  font-family: inherit;
+}
+
+button {
+  cursor: pointer;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.hidden {
+  display: none !important;
+}
+
+/* BUTTONS */
+
+.primary-btn,
+.secondary-btn {
+  display: inline-block;
+  border: none;
+  border-radius: 40px;
+  padding: 13px 25px;
+  font-size: 13px;
+  font-weight: 700;
+  transition: .3s ease;
+}
+
+.primary-btn {
+  background: var(--dark-pink);
+  color: white;
+  box-shadow: 0 6px 18px #df789e30;
+}
+
+.secondary-btn {
+  background: #fff0f5;
+  color: var(--dark-pink);
+  border: 1px solid #f2c6d6;
+}
+
+.primary-btn:hover,
+.secondary-btn:hover {
+  transform: translateY(-3px);
+}
+
+/* PASSWORD */
+
+#lockScreen {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  background: linear-gradient(135deg, #ffe4ed, #fff8fb, #fbd5e2);
+}
+
+.lock-card {
+  width: 100%;
+  max-width: 420px;
+  background: #ffffffdd;
+  padding: 45px 30px;
+  border-radius: 30px;
+  text-align: center;
+  border: 1px solid white;
+  box-shadow: 0 15px 50px #d987a533;
+}
+
+.lock-bow {
+  font-size: 55px;
+  margin-bottom: 12px;
+}
+
+.lock-card h1 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 48px;
+  color: var(--dark-pink);
+  margin: 12px 0;
+}
+
+.lock-card > p:not(.eyebrow) {
+  font-size: 14px;
+  line-height: 1.8;
+  margin-bottom: 20px;
+}
+
+.lock-card input {
+  width: 100%;
+  padding: 15px;
+  background: #fff8fb;
+  border: 1px solid #f4c3d3;
+  border-radius: 15px;
+  outline: none;
+  text-align: center;
+  font-size: 15px;
+  color: var(--text);
+  margin-bottom: 15px;
+}
+
+.lock-card input:focus {
+  border-color: var(--dark-pink);
+}
+
+.lock-card .primary-btn {
+  width: 100%;
+}
+
+.lock-footer {
+  display: block;
+  margin-top: 25px;
+  color: #d98ba8;
+}
+
+#error {
+  color: #d44d79;
+  font-size: 13px;
+  margin-top: 12px;
+  min-height: 18px;
+}
+
+/* NAVIGATION */
+
+nav {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: #ffffffed;
+  backdrop-filter: blur(12px);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px 7%;
+  box-shadow: 0 3px 20px #d987a51a;
+}
+
+.logo {
+  font-family: 'Dancing Script', cursive;
+  font-size: 29px;
+  font-weight: 700;
+  color: var(--dark-pink);
+}
+
+.nav-links {
+  display: flex;
+  align-items: center;
+  gap: 19px;
+}
+
+.nav-links a {
+  font-size: 12px;
+  font-weight: 700;
+  transition: .2s;
+}
+
+.nav-links a:hover {
+  color: var(--dark-pink);
+}
+
+.menu-toggle {
+  display: none;
+  border: none;
+  background: #fff0f5;
+  border-radius: 10px;
+  padding: 8px 12px;
+  color: var(--dark-pink);
+  font-size: 20px;
+}
+
+/* HERO */
+
+.hero {
+  min-height: 85vh;
+  background: linear-gradient(135deg, #ffe6ef, #fff8fb, #fbd8e5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  padding: 70px 20px;
+}
+
+.hero-content {
+  max-width: 750px;
+  position: relative;
+  z-index: 2;
+}
+
+.eyebrow {
+  color: #bc7892;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  line-height: 1.8;
+}
+
+.hero h1 {
+  font-family: 'Dancing Script', cursive;
+  font-size: clamp(55px, 9vw, 90px);
+  color: var(--dark-pink);
+  margin: 20px 0;
+}
+
+.hero h2 {
+  font-family: 'Playfair Display', serif;
+  font-size: clamp(19px, 4vw, 28px);
+  font-weight: 500;
+  margin-bottom: 18px;
+}
+
+.hero-description {
+  max-width: 560px;
+  margin: auto;
+  color: #936879;
+  line-height: 1.9;
+  font-size: 15px;
+}
+
+.hero-content .primary-btn {
+  margin-top: 28px;
+}
+
+.handwritten {
+  font-family: 'Dancing Script', cursive;
+  font-size: 27px;
+  color: var(--dark-pink);
+  margin-top: 28px;
+}
+
+.floating-decor {
+  position: absolute;
+  color: #e99ab5;
+  opacity: .55;
+  animation: float 4s ease-in-out infinite;
+}
+
+.decor-one {
+  top: 12%;
+  left: 12%;
+  font-size: 55px;
+}
+
+.decor-two {
+  bottom: 15%;
+  right: 12%;
+  font-size: 45px;
+  animation-delay: 1s;
+}
+
+.decor-three {
+  top: 25%;
+  right: 15%;
+  font-size: 30px;
+  animation-delay: 2s;
+}
+
+.decor-four {
+  bottom: 20%;
+  left: 15%;
+  font-size: 35px;
+  animation-delay: 1.5s;
+}
+
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0) rotate(-5deg);
+  }
+  50% {
+    transform: translateY(-18px) rotate(7deg);
+  }
+}
+
+/* COMMON SECTIONS */
+
+.section {
+  padding: 80px 8%;
+  scroll-margin-top: 75px;
+}
+
+.section-heading {
+  text-align: center;
+  margin-bottom: 45px;
+}
+
+.section-heading h2 {
+  font-family: 'Dancing Script', cursive;
+  font-size: clamp(40px, 6vw, 58px);
+  color: var(--dark-pink);
+  margin: 10px 0;
+}
+
+.section-heading > p:last-child {
+  color: var(--muted);
+  font-size: 14px;
+  line-height: 1.8;
+}
+
+/* LETTER */
+
+.letter-section {
+  background: #fff8fb;
+}
+
+.letter-card {
+  max-width: 760px;
+  margin: auto;
+  background: white;
+  border: 1px solid #f5d4df;
+  padding: 45px;
+  border-radius: 25px;
+  box-shadow: 0 12px 35px #d987a51c;
+}
+
+.letter-decoration {
+  text-align: center;
+  font-size: 35px;
+  margin-bottom: 20px;
+}
+
+.letter-card h3 {
+  font-family: 'Dancing Script', cursive;
+  color: var(--dark-pink);
+  font-size: 38px;
+  margin-bottom: 20px;
+}
+
+.letter-card p {
+  line-height: 2;
+  font-size: 15px;
+  margin-bottom: 17px;
+  color: #765262;
+}
+
+.signature {
+  font-family: 'Dancing Script', cursive;
+  font-size: 29px;
+  color: var(--dark-pink);
+  text-align: right;
+  margin-top: 25px;
+}
+
+/* STORY */
+
+.story-section {
+  background: white;
+}
+
+.timeline {
+  max-width: 700px;
+  margin: auto;
+  border-left: 2px dashed #edabc1;
+  padding-left: 30px;
+}
+
+.timeline-item {
+  position: relative;
+  margin-bottom: 38px;
+}
+
+.timeline-item::before {
+  content: "♡";
+  position: absolute;
+  left: -44px;
+  top: 0;
+  width: 27px;
+  height: 27px;
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+  background: #fff0f5;
+  color: var(--dark-pink);
+}
+
+.memory-tag {
+  display: inline-block;
+  background: #fff0f5;
+  padding: 6px 13px;
+  border-radius: 30px;
+  color: var(--dark-pink);
+  font-size: 11px;
+  margin-bottom: 10px;
+}
+
+.timeline-item h3 {
+  font-family: 'Playfair Display', serif;
+  color: var(--dark-pink);
+  margin-bottom: 9px;
+  font-size: 21px;
+}
+
+.timeline-item p {
+  line-height: 1.9;
+  color: #947281;
+  font-size: 14px;
+}
+
+/* REASONS */
+
+.reasons-section {
+  background: #fff4f8;
+}
+
+.reason-card {
+  max-width: 570px;
+  margin: auto;
+  background: white;
+  border-radius: 30px;
+  padding: 45px 25px;
+  text-align: center;
+  box-shadow: 0 10px 35px #d987a51c;
+}
+
+.reason-count {
+  font-size: 12px;
+  color: #bd8a9c;
+  letter-spacing: 2px;
+}
+
+.reason-number {
+  font-family: 'Dancing Script', cursive;
+  font-size: 75px;
+  color: var(--dark-pink);
+  margin: 10px;
+}
+
+.reason-text {
+  font-family: 'Playfair Display', serif;
+  font-size: 21px;
+  line-height: 1.7;
+  min-height: 90px;
+}
+
+.reason-controls {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 25px;
+}
+
+.little-note {
+  font-size: 12px;
+  color: #bc8a9c;
+  margin-top: 25px;
+}
+
+/* GALLERY */
+
+.gallery-section {
+  background: white;
+}
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 25px;
+  max-width: 950px;
+  margin: auto;
+}
+
+.photo-card {
+  background: white;
+  padding: 12px 12px 25px;
+  border-radius: 10px;
+  box-shadow: 0 5px 20px #a56d801c;
+  transform: rotate(-2deg);
+  transition: .3s;
+}
+
+.photo-card:nth-child(even) {
+  transform: rotate(2deg);
+}
+
+.photo-card:hover {
+  transform: rotate(0) translateY(-8px);
+}
+
+.photo-card img {
+  width: 100%;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 5px;
+  cursor: zoom-in;
+  background: #ffe6ef;
+}
+
+.photo-card p {
+  font-family: 'Dancing Script', cursive;
+  text-align: center;
+  color: #ce7194;
+  font-size: 23px;
+  margin-top: 12px;
+}
+
+.gallery-note {
+  text-align: center;
+  margin-top: 30px;
+  color: var(--muted);
+  font-size: 13px;
+}
+
+/* LIGHTBOX */
+
+.lightbox {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 500;
+  background: #381c2bdd;
+  align-items: center;
+  justify-content: center;
+  padding: 30px;
+}
+
+.lightbox.active {
+  display: flex;
+}
+
+.lightbox img {
+  max-width: 90%;
+  max-height: 85vh;
+  border: 10px solid white;
+  border-radius: 8px;
+  object-fit: contain;
+}
+
+#closeLightbox {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  border: none;
+  background: none;
+  color: white;
+  font-size: 45px;
+}
+
+/* QUIZ */
+
+.quiz-section {
+  background: #fff4f8;
+}
+
+.quiz-card {
+  max-width: 620px;
+  margin: auto;
+  background: white;
+  padding: 35px;
+  border-radius: 25px;
+  text-align: center;
+  box-shadow: 0 10px 35px #d987a51c;
+}
+
+.question-number {
+  font-size: 12px;
+  color: #bd8a9c;
+  letter-spacing: 2px;
+  margin-bottom: 15px;
+}
+
+.quiz-question {
+  font-family: 'Playfair Display', serif;
+  font-size: 22px;
+  margin-bottom: 25px;
+}
+
+.quiz-options {
+  display: grid;
+  gap: 12px;
+}
+
+.quiz-option {
+  background: #fff8fb;
+  color: var(--text);
+  border: 1px solid #f2c6d6;
+  border-radius: 15px;
+  padding: 15px;
+  text-align: left;
+  transition: .2s;
+}
+
+.quiz-option:hover:not(:disabled) {
+  background: #ffe5ef;
+  border-color: var(--dark-pink);
+}
+
+.quiz-option:disabled {
+  cursor: default;
+  opacity: .85;
+}
+
+.quiz-feedback {
+  min-height: 25px;
+  margin-top: 18px;
+  color: var(--dark-pink);
+  font-size: 13px;
+}
+
+.quiz-result {
+  font-size: 17px;
+  line-height: 1.9;
+  margin-bottom: 20px;
+}
+
+.quiz-result h3 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 38px;
+  color: var(--dark-pink);
+}
+
+/* SECRET */
+
+.secret-section {
+  background: white;
+}
+
+.secret-box {
+  max-width: 650px;
+  margin: auto;
+  background: #fff4f8;
+  border-radius: 25px;
+  padding: 40px 25px;
+  text-align: center;
+}
+
+.secret-icon {
+  font-size: 50px;
+  margin-bottom: 15px;
+}
+
+.secret-box h3 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 39px;
+  color: var(--dark-pink);
+  margin-bottom: 15px;
+}
+
+.secret-box > p {
+  color: var(--muted);
+  line-height: 1.8;
+  margin-bottom: 20px;
+}
+
+.secret-message {
+  margin-top: 25px;
+  padding: 25px;
+  background: white;
+  border-radius: 18px;
+  animation: appear .5s ease;
+}
+
+.secret-message p {
+  line-height: 1.9;
+  margin-bottom: 12px;
+}
+
+@keyframes appear {
+  from {
+    opacity: 0;
+    transform: translateY(15px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* SURPRISE */
+
+.surprise-section {
+  background: linear-gradient(135deg, #ffe6ef, #fff8fb);
+  text-align: center;
+}
+
+.surprise-message {
+  font-family: 'Dancing Script', cursive;
+  font-size: 30px;
+  color: var(--dark-pink);
+  margin-top: 25px;
+  min-height: 55px;
+  line-height: 1.6;
+}
+
+/* FOOTER */
+
+footer {
+  text-align: center;
+  padding: 40px 20px;
+  background: #fff0f5;
+  color: #b37d91;
+  font-size: 13px;
+  line-height: 2;
+}
+
+.footer-heart {
+  font-size: 35px;
+  color: var(--dark-pink);
+}
+
+.footer-script {
+  font-family: 'Dancing Script', cursive;
+  font-size: 25px;
+  color: var(--dark-pink);
+}
+
+/* MUSIC PLAYER */
+
+.music-player {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 200;
+  background: white;
+  border: 1px solid #f3c9d8;
+  box-shadow: 0 5px 25px #d987a533;
+  border-radius: 40px;
+  padding: 10px 17px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.music-player button {
+  border: none;
+  background: #ffe6ef;
+  color: var(--dark-pink);
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  font-size: 16px;
+}
+
+.music-info {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+
+.music-info span {
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.music-info small {
+  font-size: 10px;
+  color: #b38a9a;
+}
+
+/* HEART ANIMATION */
+
+.heart {
+  position: fixed;
+  bottom: -35px;
+  z-index: 300;
+  pointer-events: none;
+  animation: heartFloat 5s linear forwards;
+}
+
+@keyframes heartFloat {
+  0% {
+    transform: translateY(0) rotate(0);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(-110vh) rotate(35deg);
+    opacity: 0;
+  }
+}
+
+/* MOBILE */
+
+@media (max-width: 850px) {
+  nav {
+    padding: 14px 5%;
+  }
+
+  .nav-links {
+    gap: 11px;
+  }
+
+  .nav-links a {
+    font-size: 11px;
+  }
+}
+
+@media (max-width: 650px) {
+  nav {
+    flex-wrap: wrap;
+  }
+
+  .menu-toggle {
+    display: block;
+  }
+
+  .nav-links {
+    display: none;
+    width: 100%;
+    flex-direction: column;
+    align-items: stretch;
+    padding: 12px 0;
+  }
+
+  .nav-links.active {
+    display: flex;
+  }
+
+  .nav-links a {
+    text-align: center;
+    padding: 8px;
+    font-size: 13px;
+  }
+
+  .section {
+    padding: 60px 6%;
+  }
+
+  .hero {
+    min-height: 80vh;
+  }
+
+  .letter-card {
+    padding: 28px 22px;
+  }
+
+  .quiz-card {
+    padding: 25px 18px;
+  }
+
+  .decor-one {
+    left: 5%;
+  }
+
+  .decor-two {
+    right: 5%;
+  }
+
+  .music-player {
+    bottom: 12px;
+    right: 12px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: .01ms !important;
+    transition-duration: .01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+// ====================================
+// 1. PASSWORD SETTINGS
+// ====================================
+
+const PASSWORD = "sambhavyaa2106";
+
+const lockScreen = document.getElementById("lockScreen");
+const website = document.getElementById("website");
+const passwordInput = document.getElementById("passwordInput");
+const errorMessage = document.getElementById("error");
+
+const unlockBtn = document.getElementById("unlockBtn");
+
+function unlock() {
+  const enteredPassword = passwordInput.value;
+
+  if (enteredPassword === PASSWORD) {
+    lockScreen.style.display = "none";
+    website.style.display = "block";
+
+    document.getElementById("musicPlayer").classList.remove("hidden");
+
+    startHearts();
+    startQuiz();
+
+  } else {
+    errorMessage.textContent =
+      "Oops! Wrong password, try again sweetheart. ♡";
+
+    passwordInput.value = "";
+  }
+}
+
+unlockBtn.addEventListener("click", unlock);
+
+passwordInput.addEventListener("keydown", function(event) {
+  if (event.key === "Enter") {
+    unlock();
+  }
+});
+
+
+// ====================================
+// 2. MOBILE NAVIGATION
+// ====================================
+
+const menuToggle = document.getElementById("menuToggle");
+const navLinks = document.getElementById("navLinks");
+
+menuToggle.addEventListener("click", function() {
+  navLinks.classList.toggle("active");
+});
+
+document.querySelectorAll(".nav-links a").forEach(link => {
+  link.addEventListener("click", function() {
+    navLinks.classList.remove("active");
+  });
+});
+
+
+// ====================================
+// 3. 100 REASONS
+// ====================================
+
+const reasons = [
+  "Because you're my favourite notification.",
+  "Because your voice has its own magic.",
+  "Because you make words sound beautiful.",
+  "Because your shayari is so you.",
+  "Because you can make ordinary words feel special.",
+  "Because I love teasing you.",
+  "Because you're mine.",
+  "Because you're someone I want to know more about.",
+  "Because your songs stay in my head.",
+  "Because you have a way with words.",
+  "Because talking to you can make a day feel softer.",
+  "Because you deserve the sweetest things.",
+  "Because you make me smile without trying.",
+  "Because I like hearing you talk.",
+  "Because your little compliments make me blush.",
+  "Because you have your own kind of charm.",
+  "Because you're wonderfully you.",
+  "Because I can be silly around you.",
+  "Because I want to share random thoughts with you.",
+  "Because you make affection feel cute.",
+  "Because you have a beautiful way of expressing yourself.",
+  "Because I love your dramatic side.",
+  "Because you're my favourite distraction.",
+  "Because you make me curious about what you'll say next.",
+  "Because your voice deserves its own appreciation post.",
+  "Because I like your little efforts.",
+  "Because you can turn a sentence into a poem.",
+  "Because I love your creativity.",
+  "Because you make me want to write cute things.",
+  "Because you're worth a little extra effort.",
+  "Because I like calling you Sami.",
+  "Because you have a special place in my thoughts.",
+  "Because you make me want to send you random messages.",
+  "Because I love the way you use words.",
+  "Because you're a whole mood.",
+  "Because you make my heart feel a little softer.",
+  "Because I like learning little things about you.",
+  "Because your existence is worth celebrating.",
+  "Because you're my favourite person to annoy.",
+  "Because I love your poetic side.",
+  "Because you make me appreciate little conversations.",
+  "Because you're someone I want to cheer for.",
+  "Because you deserve forehead kisses.",
+  "Because you deserve warm hugs.",
+  "Because I want you to be happy.",
+  "Because I love your silly moments.",
+  "Because you make me want to be affectionate.",
+  "Because you're my favourite human to tease.",
+  "Because I like the thought of making you smile.",
+  "Because you have a lovely imagination.",
+  "Because I love your expressive side.",
+  "Because you make me want to write love letters.",
+  "Because you're my little favourite.",
+  "Because I like your presence.",
+  "Because you deserve to feel appreciated.",
+  "Because I want to celebrate your wins.",
+  "Because I want to support your dreams.",
+  "Because I want to see you succeed.",
+  "Because you deserve patience and kindness.",
+  "Because I like your way of thinking.",
+  "Because you make me smile at my screen.",
+  "Because I love your songs and shayari.",
+  "Because you make compliments sound like poetry.",
+  "Because you have a beautiful voice.",
+  "Because I want to send you virtual kisses.",
+  "Because I want to give you the tightest hug.",
+  "Because you're someone I can be playful with.",
+  "Because you make cute things even cuter.",
+  "Because I made this little world for you.",
+  "Because you inspired this pink little website.",
+  "Because I wanted to make you feel special.",
+  "Because you're my favourite reason to be cheesy.",
+  "Because I love being a little clingy with you.",
+  "Because you deserve all the good things.",
+  "Because I want to know your favourite things.",
+  "Because I like imagining your smile.",
+  "Because I want to hear more of your stories.",
+  "Because I love your enthusiasm.",
+  "Because you make me want to be creative.",
+  "Because you deserve a hundred reasons and more.",
+  "Because you're someone I don't want to take for granted.",
+  "Because I like having you in my little world.",
+  "Because you make me want to say sweet things.",
+  "Because your happiness matters.",
+  "Because I want to remind you that you're enough.",
+  "Because I like your unique personality.",
+  "Because you are more than just pretty words.",
+  "Because I love your little poetic universe.",
+  "Because I want to be your cheerleader.",
+  "Because you deserve the softest love.",
+  "Because I want to keep discovering you.",
+  "Because I like the way you make me laugh.",
+  "Because I love our little conversations.",
+  "Because you're my favourite kind of distraction.",
+  "Because I want to make more memories with you.",
+  "Because you deserve genuine affection.",
+  "Because I love having a reason to make you smile.",
+  "Because you are important to me.",
+  "Because you're my Samath, silly.",
+  "Because there are a hundred reasons, but one simple answer: I love you. ♡"
+];
+
+let reasonIndex = 0;
+
+const reasonNumber = document.getElementById("reasonNumber");
+const reasonCount = document.getElementById("reasonCount");
+const reasonText = document.getElementById("reasonText");
+
+function showReason() {
+  reasonNumber.textContent =
+    String(reasonIndex + 1).padStart(2, "0");
+
+  reasonCount.textContent =
+    `REASON ${String(reasonIndex + 1).padStart(2, "0")} OF ${reasons.length}`;
+
+  reasonText.textContent = reasons[reasonIndex];
+}
+
+document.getElementById("nextReason").addEventListener("click", function() {
+  reasonIndex = (reasonIndex + 1) % reasons.length;
+  showReason();
+});
+
+document.getElementById("previousReason").addEventListener("click", function() {
+  reasonIndex = (reasonIndex - 1 + reasons.length) % reasons.length;
+  showReason();
+});
+
+showReason();
+
+
+// ====================================
+// 4. PHOTO LIGHTBOX
+// ====================================
+
+const lightbox = document.getElementById("lightbox");
+const lightboxImage = document.getElementById("lightboxImage");
+
+document.querySelectorAll(".photo-card img").forEach(photo => {
+
+  photo.addEventListener("click", function() {
+    lightboxImage.src = this.src;
+    lightbox.classList.add("active");
+  });
+
+});
+
+document.getElementById("closeLightbox").addEventListener("click", function() {
+  lightbox.classList.remove("active");
+});
+
+lightbox.addEventListener("click", function(event) {
+  if (event.target === lightbox) {
+    lightbox.classList.remove("active");
+  }
+});
+
+
+// ====================================
+// 5. COUPLE QUIZ
+// ====================================
+
+const questions = [
+  {
+    question: "Where did our paths first cross?",
+    options: [
+      "Instagram group chats(honeymoon)",
+      "Instagram group chats(januvan)",
+      "Instagram group chats(nightclub)"
+    ],
+    answer: 0
+  },
+
+  {
+    question: "What do I used to call you?",
+    options: [
+      "Sam",
+      "Sami",
+      "samrath"
+    ],
+    answer: 2
+  },
+
+  {
+    question: "What s my favourite song?",
+    options: [
+      "tum mile",
+      "aaj se teri",
+      "tera naam doon"
+    ],
+    answer: 1
+  },
+
+  {
+    question: "my last periods date?",
+    options: [
+      "12 oct",
+      "14 oct",
+      "16 oct"
+    ],
+    answer: 2
+  },
+
+  {
+    question: "what is the exact date we talk for first time in januvan?",
+    options: [
+      "25.08",
+      "19.08",
+      "17.08"
+    ],
+    answer: 2
+  },
+
+  {
+    question: "Why was this website made?",
+    options: [
+      "For a college assignment",
+      "Just for you, silly",
+      "For a competition"
+    ],
+    answer: 1
+  }
+];
+
+let questionIndex = 0;
+let score = 0;
+let answered = false;
+
+const questionNumber = document.getElementById("questionNumber");
+const questionText = document.getElementById("questionText");
+const optionsContainer = document.getElementById("options");
+const quizFeedback = document.getElementById("quizFeedback");
+
+const quizArea = document.getElementById("quizArea");
+const quizResult = document.getElementById("quizResult");
+const restartQuiz = document.getElementById("restartQuiz");
+
+function startQuiz() {
+  questionIndex = 0;
+  score = 0;
+  answered = false;
+
+  quizArea.classList.remove("hidden");
+  quizResult.classList.add("hidden");
+  restartQuiz.classList.add("hidden");
+
+  showQuestion();
+}
+
+function showQuestion() {
+  answered = false;
+
+  const current = questions[questionIndex];
+
+  questionNumber.textContent =
+    `QUESTION ${questionIndex + 1} OF ${questions.length}`;
+
+  questionText.textContent = current.question;
+
+  quizFeedback.textContent = "";
+
+  optionsContainer.innerHTML = "";
+
+  current.options.forEach((option, index) => {
+
+    const button = document.createElement("button");
+
+    button.className = "quiz-option";
+    button.textContent = option;
+
+    button.addEventListener("click", function() {
+      checkAnswer(index, button);
+    });
+
+    optionsContainer.appendChild(button);
+
+  });
+}
+
+function checkAnswer(selected, clickedButton) {
+
+  if (answered) return;
+
+  answered = true;
+
+  const current = questions[questionIndex];
+  const allButtons = document.querySelectorAll(".quiz-option");
+
+  if (selected === current.answer) {
+    score++;
+
+    clickedButton.textContent += " ♡ Correct!";
+    quizFeedback.textContent = "Awww, that's right! 💗";
+
+  } else {
+
+    clickedButton.textContent += " ♡ Not quite!";
+
+    allButtons[current.answer].textContent += " ← Correct answer";
+
+    quizFeedback.textContent = "Oopsie! Remember this one. 🎀";
+  }
+
+  allButtons.forEach(button => {
+    button.disabled = true;
+  });
+
+  setTimeout(function() {
+
+    questionIndex++;
+
+    if (questionIndex < questions.length) {
+      showQuestion();
+    } else {
+      showQuizResult();
+    }
+
+  }, 1300);
+}
+
+function showQuizResult() {
+
+  quizArea.classList.add("hidden");
+  quizResult.classList.remove("hidden");
+  restartQuiz.classList.remove("hidden");
+
+  let message;
+
+  if (score === questions.length) {
+    message = "PERFECT SCORE! You know our little story! 🥹💗";
+  } else if (score >= 4) {
+    message = "Awww! Pretty good, Samm! 🎀";
+  } else {
+    message = "Hmmmm! Someone needs to pay more attention! 🤭";
+  }
+
+  quizResult.innerHTML = `
+    <h3>Quiz Completed! ♡</h3>
+    <p>You scored ${score} out of ${questions.length}.</p>
+    <p>${message}</p>
+    <p>Sending you a virtual kiss! 💋</p>
+  `;
+
+  heartBurst();
+}
+
+restartQuiz.addEventListener("click", startQuiz);
+
+
+// ====================================
+// 6. SECRET MESSAGE
+// ====================================
+
+const revealSecret = document.getElementById("revealSecret");
+const secretMessage = document.getElementById("secretMessage");
+
+revealSecret.addEventListener("click", function() {
+
+  secretMessage.classList.remove("hidden");
+
+  revealSecret.textContent = "You found my secret! ♡";
+
+  heartBurst();
+
+});
+
+
+// ====================================
+// 7. RANDOM SURPRISES
+// ====================================
+
+const surprises = [
+  "Come here, you! I owe you approximately 1000 hugs. 🫂",
+  "Breaking news: Samrat is officially too cute to handle. 🎀",
+  "Reminder: drink water, handsome. ♡",
+  "Sending you one forehead kiss and a million more. 💋",
+  "I hope something makes you smile today. 💗",
+  "Stop being so adorable. It's distracting. 🤭",
+  "If I could, I'd give you the biggest hug right now.",
+  "You are loved, appreciated and mildly annoying. ♡",
+  "A tiny reminder that I'm cheering for you!",
+  "Your daily dose of affection has arrived. 🎀",
+  "Go smile in the mirror. I bet it's cute.",
+  "I hereby demand one virtual hug from you!",
+  "Samrat, you're someone's favourite human. Just saying.",
+  "Sending you a pocket full of hearts.",
+  "You deserve a peaceful, happy day. 💗",
+  "Imagine me giving you the tightest hug ever.",
+  "Hey you, pretty boy! Take care of yourself.",
+  "I hope your dreams turn into beautiful realities.",
+  "You + a happy smile = my favourite combination.",
+  "Okay, now come collect your kisses. 💋"
+];
+
+const surpriseBtn = document.getElementById("surpriseBtn");
+const surpriseMessage = document.getElementById("surpriseMessage");
+
+surpriseBtn.addEventListener("click", function() {
+
+  const randomIndex = Math.floor(Math.random() * surprises.length);
+
+  surpriseMessage.textContent = surprises[randomIndex];
+
+  heartBurst();
+
+});
+
+
+// ====================================
+// 8. MUSIC PLAYER
+// ====================================
+
+const music = document.getElementById("backgroundMusic");
+const musicButton = document.getElementById("musicButton");
+const musicLabel = document.getElementById("musicLabel");
+
+musicButton.addEventListener("click", async function() {
+
+  if (music.paused) {
+
+    try {
+
+      await music.play();
+
+      musicButton.textContent = "❚❚";
+      musicLabel.textContent = "Playing for you ♡";
+
+    } catch (error) {
+
+      musicLabel.textContent = "Check your music file ♡";
+
+    }
+
+  } else {
+
+    music.pause();
+
+    musicButton.textContent = "▶";
+    musicLabel.textContent = "A song for you ♡";
+
+  }
+
+});
+
+
+// ====================================
+// 9. FLOATING HEARTS
+// ====================================
+
+let heartInterval = null;
+
+function createHeart() {
+
+  const heart = document.createElement("div");
+
+  heart.className = "heart";
+
+  const symbols = ["♡", "♥", "💗", "💕", "୨୧"];
+
+  heart.textContent =
+    symbols[Math.floor(Math.random() * symbols.length)];
+
+  heart.style.left = Math.random() * 100 + "vw";
+
+  heart.style.fontSize =
+    (15 + Math.random() * 20) + "px";
+
+  heart.style.color = [
+    "#e77da3",
+    "#f2a8c2",
+    "#d98ba8"
+  ][Math.floor(Math.random() * 3)];
+
+  document.body.appendChild(heart);
+
+  setTimeout(function() {
+    heart.remove();
+  }, 5000);
+
+}
+
+function startHearts() {
+
+  if (heartInterval) return;
+
+  heartInterval = setInterval(createHeart, 700);
+
+}
+
+function heartBurst() {
+
+  for (let i = 0; i < 18; i++) {
+
+    setTimeout(createHeart, i * 70);
+
+  }
+
+}
+
